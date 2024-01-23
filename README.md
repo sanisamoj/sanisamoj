@@ -39,7 +39,7 @@ data class Skills : Developer(
 ```
 ## Sobre mim 👨🏻‍💻
 
-Eai, blz? Eu sou o João Mário, tenho 25 anos e moro em São Paulo, a cidade que nunca dorme.
+Eai, tudo bem? Eu sou o João Mário, tenho 25 anos e moro em São Paulo, a cidade que nunca dorme.
 
 Comecei a programar na pandemia, quando quis fazer um jogo na Unity. Foi aí que conheci o **C#**, uma linguagem orientada a objetos que me ensinou os fundamentos da programação.
 
