@@ -34,7 +34,7 @@ data class Skills : Developer(
         "Spring Boot", "Spring Web", "Spring Data JPA", "JUnit",
         "Ktor", "Fastify", "Express", "JWT", "Whatsapp-web.js"
     ),
-    val database: MutableList<String> = mutableListOf("PostgreSQL", "MongoDB", "Redis")
+    val databases: MutableList<String> = mutableListOf("PostgreSQL", "MongoDB", "Redis")
 )
 ```
 ## Sobre mim 👨🏻‍💻
