@@ -51,6 +51,14 @@ Hoje, estou enfrentando um novo desafio: aprender uma nova linguagem de programa
 
 - Técnologia em Análise e Desenvolvimento de Sistemas - Senac(fevereiro/2023 - junho/2025)
 
+## Projetos em Produção/Deploy 🚀
+
+- **API Loteria Federal** -> [https://www.loteriajogosapi.com/api/megasena/latest](https://www.loteriajogosapi.com/api/megasena/latest)
+    - _Para visualizar o funcionamento da API_ -> [Github](https://github.com/sanisamoj/apiLoteria)
+
+- **BOT Medusa** -> [Entre no grupo do whatsapp!](https://github.com/sanisamoj/Lily--web-bot.js)
+  - _Para visualizar o funcionamento do bot_ -> [Github](https://chat.whatsapp.com/BW0lAuabY3j3do0ivHrSWF)
+
 ## Tecnologias/Conhecimentos 💻
 
 - Linguagens: JavaScript | Typescript, Kotlin.
