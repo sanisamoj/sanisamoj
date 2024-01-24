@@ -24,17 +24,17 @@ Outra forma de enxergar o mundo...
 data class AboutMe : Developer(
     val name: String = "João Mário",
     val area: String = "Backend/Android Developer",
-    val word: String = "Searching",
-    val local: String? = null
+    var work: String = "Searching",
+    var local: String? = null
 )
 
 data class Skills : Developer(
-    val language: MutableList<String> = mutableListOf("Javascript/Typescript", "Kotlin"),
-    val frameworks: MutableList<String> = mutableListOf(
+    var language: MutableList<String> = mutableListOf("Javascript/Typescript", "Kotlin"),
+    var frameworks: MutableList<String> = mutableListOf(
         "Spring Boot", "Spring Web", "Spring Data JPA", "JUnit",
         "Ktor", "Fastify", "Express", "JWT", "Whatsapp-web.js"
     ),
-    val databases: MutableList<String> = mutableListOf("PostgreSQL", "MongoDB", "Redis")
+    var databases: MutableList<String> = mutableListOf("PostgreSQL", "MongoDB", "Redis")
 )
 ```
 ## Sobre mim 👨🏻‍💻
