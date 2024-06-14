@@ -54,10 +54,13 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 ## Projetos em Produção/Deploy 🚀
 
 - **API Loteria Federal** -> [https://www.loteriajogosapi.com/api/megasena/latest](https://www.loteriajogosapi.com/api/megasena/latest)
-    - _Para visualizar o funcionamento da API_ -> [Github](https://github.com/sanisamoj/apiLoteria)
+    - _Para visualizar o código da API_ -> [Github](https://github.com/sanisamoj/apiLoteria)
+
+ - **Servidor de armazenamento de mídias** -> [https://www.sanisamojrepository.com/](https://www.sanisamojrepository.com/)
+    - _Para visualizar o código do Servidor_ -> [Github](https://github.com/sanisamoj/Media-Repository)
 
 - **BOT Medusa** -> [Entre no grupo do whatsapp!](https://github.com/sanisamoj/Lily--web-bot.js)
-  - _Para visualizar o funcionamento do bot_ -> [Github](https://chat.whatsapp.com/BW0lAuabY3j3do0ivHrSWF)
+  - _Para visualizar o código do bot_ -> [Github](https://chat.whatsapp.com/BW0lAuabY3j3do0ivHrSWF)
 
 ## Tecnologias/Conhecimentos 💻
 
