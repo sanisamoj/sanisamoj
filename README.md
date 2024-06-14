@@ -38,18 +38,15 @@ data class Skills : Developer(
 )
 ```
 ## Sobre mim 👨🏻‍💻
-
-Eai, tudo bem? Eu sou o João Mário, tenho 25 anos e moro em São Paulo, a cidade que nunca dorme.
-
 Comecei a programar na pandemia, quando quis fazer um jogo na Unity. Foi aí que conheci o **C#**, uma linguagem orientada a objetos que me ensinou os fundamentos da programação.
 
-Mas eu não parei por aí. Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. Aprendi a criar API’s, implementar segurança nas rotas, organizar os projetos e outros conceitos pertinentes.
+Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. Aprendi a criar API’s, implementar segurança nas rotas, organizar os projetos e outros conceitos pertinentes.
 
-Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para me destacar e ampliar meus conhecimentos*. Escolhi o **Kotlin**, que é muito parecido com o **Typescript** que eu já usava. Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Android!** Sim, eu estou aprendendo a desenvolver apps para celular com o Kotlin, porque eu quero fazer projetos completos.
+Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Kotlin**, Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Aplicatovos Android!**
 
 ## Formação 📚
 
-- Técnologia em Análise e Desenvolvimento de Sistemas - Senac(fevereiro/2023 - junho/2025)
+- Técnologia em Análise e Desenvolvimento de Sistemas - Senac
 
 ## Projetos em Produção/Deploy 🚀
 
