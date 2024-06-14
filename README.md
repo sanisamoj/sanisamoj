@@ -42,7 +42,7 @@ Comecei a programar na pandemia, quando quis fazer um jogo na Unity. Foi aí que
 
 Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. Aprendi a criar API’s, implementar segurança nas rotas, organizar os projetos e outros conceitos pertinentes.
 
-Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Kotlin**, Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Aplicatovos Android!**
+Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Kotlin**, Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Aplicativos Android!**
 
 ## Formação 📚
 
