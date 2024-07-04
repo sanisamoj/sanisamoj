@@ -48,14 +48,6 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 
 - Técnologia em Análise e Desenvolvimento de Sistemas - Senac
 
-## Projetos em Produção/Deploy 🚀
-
-- [**API Loteria Federal**](https://www.loteriajogosapi.com/api/megasena/latest) - API que retorna todos os resultado dos jogos da loteria federal.
-
-- [**Servidor de armazenamento de mídias**](https://www.sanisamojrepository.com/) - Servidor de armazenamento de mídias.
-
-- [**BOT Medusa**](https://github.com/sanisamoj/Lily--web-bot.js) - Um bot de interação de grupos de whatsapp.
-
 ## Tecnologias/Conhecimentos 💻
 
 - Linguagens: JavaScript | Typescript, Kotlin.
