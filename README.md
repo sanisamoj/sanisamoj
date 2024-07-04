@@ -21,14 +21,14 @@ class Skills extends Developer {
 ```
 Outra forma de enxergar o mundo...
 ```kotlin
-data class AboutMe : Developer(
+data class AboutMe(
     val name: String = "João Mário",
     val area: String = "Backend/Android Developer",
     var work: String = "Searching",
     var local: String? = null
 )
 
-data class Skills : Developer(
+data class Skills(
     var language: MutableList<String> = mutableListOf("Javascript/Typescript", "Kotlin"),
     var frameworks: MutableList<String> = mutableListOf(
         "Spring Boot", "Spring Web", "Spring Data JPA", "JUnit",
