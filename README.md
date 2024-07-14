@@ -52,9 +52,9 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 
 - Linguagens: JavaScript | Typescript, Kotlin.
 - Sistemas Operacionais: Windows/Linux
-- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, Redis, SocketIO, JsonWebToken, Mercado Pago, Asass, JEST.
-- Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB.
-- Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB)
+- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, SocketIO, JsonWebToken, Mercado Pago, Asass, JEST.
+- Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB, Redis, Kotlin Multiplatform.
+- Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB E Redis)
 - Cloud Services: Using AWS Ec2 service, and Microsoft Azure for personal projects.
 - Certificados: Scrum e Manutenção de Hardwares.
 
