@@ -44,6 +44,11 @@ Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. A
 
 Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Kotlin**, Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Aplicativos Android!**
 
+## Projetos públicos em Deploy 🌎
+
+- [Briefly](https://briefly.top/) - Encurtador de links.
+- [Media-Repository](https://www.sanisamojrepository.com/image-repo/media?media=aQgM8v1OW7lMXJOioZovqqwPC9e1w3hT2P8r-giphy2.webp) - Repositório de mídias
+
 ## Formação 📚
 
 - Técnologia em Análise e Desenvolvimento de Sistemas - Senac
