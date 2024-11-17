@@ -47,12 +47,13 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 ## Projetos públicos em Deploy 🌎
 
 - [Briefly](https://briefly.top/) - Encurtador de links.
-- [Media-Repository](https://www.sanisamojrepository.com/image-repo/media?media=aQgM8v1OW7lMXJOioZovqqwPC9e1w3hT2P8r-giphy2.webp) - Repositório de mídias
+- [Media-Repository](https://www.sanisamojrepository.com/image-repo/media?media=aQgM8v1OW7lMXJOioZovqqwPC9e1w3hT2P8r-giphy2.webp) - Repositório de mídias.
 
 ## Projetos privados em Deploy 🔏
 
 - [Nbot](https://wa.me/5511915128819) - Automatizador de atendimento.
   - O projeto ainda está em desenvolvimento, o servidor está pronto, porém a parte visual está sendo desenvolvida.
+> *O Link lhe redirecionará para uma conversa no Whatsapp*
 
 ## Formação 📚
 
