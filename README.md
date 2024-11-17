@@ -65,6 +65,7 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 - Sistemas Operacionais: Windows/Linux
 - Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, SocketIO, Mercado Pago, Asass, JEST.
 - Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB, Redis, Kotlin Multiplatform, RabbitMQ.
+- Ferramentas: Docker, Jira, Ngnix.
 - Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB E Redis)
 - Cloud Services: Using AWS Ec2 service, and Microsoft Azure for personal projects.
 - Certificados: Scrum e Manutenção de Hardwares.
