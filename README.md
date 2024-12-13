@@ -6,7 +6,7 @@ import BackendDeveloper from "JoaoMario";
 class AboutMe extends Developer {
     name = "João Mário";
     area = "Backend/Android Developer";
-    work = "Searching";
+    work = "D&OSistemas";
     local = "Null";
 }
 
@@ -24,7 +24,7 @@ Outra forma de enxergar o mundo...
 data class AboutMe(
     val name: String = "João Mário",
     val area: String = "Backend/Android Developer",
-    var work: String = "Searching",
+    var work: String = "D&OSistemas",
     var local: String? = null
 )
 
@@ -63,7 +63,7 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 
 - Linguagens: JavaScript | Typescript, Kotlin.
 - Sistemas Operacionais: Windows/Linux
-- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, SocketIO, Mercado Pago, Asass, JEST.
+- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, NextJs, SocketIO, Mercado Pago, Asass, JEST.
 - Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB, Redis, Kotlin Multiplatform, RabbitMQ.
 - Ferramentas: Docker, Jira, Ngnix.
 - Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB E Redis)
