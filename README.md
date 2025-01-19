@@ -54,6 +54,7 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 - [Nbot](https://wa.me/5511915128819) - Automatizador de atendimento.
   - O projeto ainda está em desenvolvimento, o servidor está pronto, porém a parte visual está sendo desenvolvida.
 > *O Link lhe redirecionará para uma conversa no Whatsapp*
+> *Página em contrução* [Nbot-WebApp](https://nbot-app-rwyb-ey69m7e6m-sanisamojs-projects.vercel.app/dashboard)
 
 ## Formação 📚
 
@@ -63,7 +64,7 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 
 - Linguagens: JavaScript | Typescript, Kotlin.
 - Sistemas Operacionais: Windows/Linux
-- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, NextJs, SocketIO, Mercado Pago, Asass, JEST.
+- Frameworks/API's com JS: Nodejs, Fastify, Express, ORM Prisma, Whatsapp-web.js , Reactjs, NextJs, SocketIO, Mercado Pago, Asass, JEST, Redux, Tailwind.
 - Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB, Redis, Kotlin Multiplatform, RabbitMQ.
 - Ferramentas: Docker, Jira, Ngnix.
 - Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB E Redis)
