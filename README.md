@@ -55,7 +55,7 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
   - O projeto ainda está em desenvolvimento, o servidor está pronto, porém a parte visual está sendo desenvolvida.
 > *O Link lhe redirecionará para uma conversa no Whatsapp*
 
-> *Página em contrução* [Nbot-WebApp](https://nbot-app-rwyb-ey69m7e6m-sanisamojs-projects.vercel.app/dashboard)
+> *Página em contrução* [Nbot-WebApp](https://nbot-app-rwyb.vercel.app/dashboard/flow)
 
 ## Formação 📚
 
