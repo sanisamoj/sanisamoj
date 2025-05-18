@@ -48,14 +48,9 @@ Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de program
 
 - [Briefly](https://briefly.top/) - Encurtador de links.
 - [Media-Repository](https://www.sanisamojrepository.com/image-repo/media?media=aQgM8v1OW7lMXJOioZovqqwPC9e1w3hT2P8r-giphy2.webp) - Repositório de mídias.
-
-## Projetos privados em Deploy 🔏
-
-- [Nbot](https://wa.me/5511915128819) - Automatizador de atendimento.
-  - O projeto ainda está em desenvolvimento, o servidor está pronto, porém a parte visual está sendo desenvolvida.
-> *O Link lhe redirecionará para uma conversa no Whatsapp*
-
-> *Página em contrução* [Nbot-WebApp](https://nbot-app-rwyb.vercel.app/dashboard/bots)
+- LemBrago - Gerenciador e compartilhador de senhas criptografado com E2EE (criptografia de ponta a ponta).
+  - [Repositório](https://github.com/sanisamoj/LBRAGO)
+  - [Página para download](https://lembrago.sanisamojrepository.com/)
 
 ## Formação 📚
 
