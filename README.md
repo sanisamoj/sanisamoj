@@ -7,42 +7,82 @@ class AboutMe extends Developer {
     name = "João Mário";
     area = "Backend/Android Developer";
     work = "D&OSistemas";
-    local = "Null";
+    local = null;
 }
 
 class Skills extends Developer {
-    Language = ["Javascript/Typescript", "Kotlin"];
+    language = ["Javascript/Typescript", "Kotlin"];
     frameworks = [
         "Spring Boot", "Spring Web", "Spring Data JPA",
         "JUnit", "Ktor", "Fastify", "Express", "JWT", "Whatsapp-web.js"
     ];
-    databases = ["Postgresql", "MongoDB", "Redis"]
+    databases = ["PostgreSQL", "MongoDB", "Redis"];
 }
 ```
 Outra forma de enxergar o mundo...
-```kotlin
-data class AboutMe(
-    val name: String = "João Mário",
-    val area: String = "Backend/Android Developer",
-    var work: String = "D&OSistemas",
-    var local: String? = null
-)
+```go
+package main
 
-data class Skills(
-    var language: MutableList<String> = mutableListOf("Javascript/Typescript", "Kotlin"),
-    var frameworks: MutableList<String> = mutableListOf(
-        "Spring Boot", "Spring Web", "Spring Data JPA", "JUnit",
-        "Ktor", "Fastify", "Express", "JWT", "Whatsapp-web.js"
-    ),
-    var databases: MutableList<String> = mutableListOf("PostgreSQL", "MongoDB", "Redis")
-)
+import "fmt"
+
+type AboutMe struct {
+	Name string
+	Area string
+	Work string
+	Local *string
+}
+
+type Skills struct {
+	Language   []string
+	Frameworks []string
+	Databases  []string
+}
+
+func main() {
+	joaoMarioAbout := AboutMe{
+		Name: "João Mário",
+		Area: "Backend/Android Developer",
+		Work: "D&OSistemas",
+		Local: nil,
+	}
+
+	joaoMarioSkills := Skills{
+		Language: []string{"Javascript/Typescript", "Kotlin"},
+		Frameworks: []string{
+			"Spring Boot", "Spring Web", "Spring Data JPA",
+			"JUnit", "Ktor", "Fastify", "Express", "JWT", "Whatsapp-web.js",
+		},
+		Databases: []string{"PostgreSQL", "MongoDB", "Redis"},
+	}
+
+	fmt.Println("--- Sobre Mim ---")
+	fmt.Printf("Nome: %s\n", joaoMarioAbout.Name)
+	fmt.Printf("Área: %s\n", joaoMarioAbout.Area)
+	fmt.Printf("Trabalho: %s\n", joaoMarioAbout.Work)
+	if joaoMarioAbout.Local != nil {
+		fmt.Printf("Local: %s\n", *joaoMarioAbout.Local)
+	} else {
+		fmt.Println("Local: (não especificado)")
+	}
+
+	fmt.Println("\n--- Habilidades ---")
+	fmt.Printf("Linguagens: %v\n", joaoMarioSkills.Language)
+	fmt.Printf("Frameworks: %v\n", joaoMarioSkills.Frameworks)
+	fmt.Printf("Bancos de Dados: %v\n", joaoMarioSkills.Databases)
+
+	joaoMarioSkills.Language = append(joaoMarioSkills.Language, "Go")
+	fmt.Printf("Linguagens (após adição): %v\n", joaoMarioSkills.Language)
+}
 ```
+
 ## Sobre mim 👨🏻‍💻
 Comecei a programar na pandemia, quando quis fazer um jogo na Unity. Foi aí que conheci o **C#**, uma linguagem orientada a objetos que me ensinou os fundamentos da programação.
 
-Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. Aprendi a criar API’s, implementar segurança nas rotas, organizar os projetos e outros conceitos pertinentes.
+Fui explorando outras áreas e me apaixonei pelo **Backend** com o **Nodejs**. Aprendi a criar API’s, implementar segurança nas rotas, organizar os projetos e outros conceitos pertinentes. Também encontrei
+o ambiente Java/Kotlin que me agregaram outros conceitos.
 
-Hoje, estou enfrentando um novo desafio: *aprender uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Kotlin**, Com o Kotlin, eu posso fazer API’s e aplicações robustas para servidores… e também para **Aplicativos Android!**
+Hoje, estou enfrentando um novo desafio: *aprender mais uma nova linguagem de programação para ampliar meus conhecimentos*. Escolhi o **Golang**, no qual tenho criado scripts e alguns projetos com a linguagem.
+Também surgiu o interesse por cybersecurity, como testes de penetração, defesa, criptografia, conceitos Zero Knowledge e por ai vai....
 
 ## Projetos públicos em Deploy 🌎
 
