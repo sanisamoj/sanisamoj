@@ -92,10 +92,6 @@ Também surgiu o interesse por cybersecurity, como testes de penetração, defes
   - [Repositório](https://github.com/sanisamoj/LBRAGO)
   - [Página para download](https://lembrago.sanisamojrepository.com/)
 
-## Formação 📚
-
-- Técnologia em Análise e Desenvolvimento de Sistemas - Senac
-
 ## Tecnologias/Conhecimentos 💻
 
 - Linguagens: JavaScript | Typescript, Kotlin e GO.
