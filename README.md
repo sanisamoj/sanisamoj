@@ -87,7 +87,7 @@ Também surgiu o interesse por cybersecurity, como testes de penetração, defes
 ## Projetos públicos em Deploy 🌎
 
 - [Briefly](https://briefly.top/) - Encurtador de links.
-- [Media-Repository]([https://www.sanisamojrepository.com/image-repo/media?media=aQgM8v1OW7lMXJOioZovqqwPC9e1w3hT2P8r-giphy2.webp](https://www.sanisamojrepository.com/image-repo/files/273cd4d8-15c3-4dbc-9c8c-08bfa09be046.gif)) - Repositório de mídias.
+- [Media-Repository](https://www.sanisamojrepository.com/image-repo/files/273cd4d8-15c3-4dbc-9c8c-08bfa09be046.gif) - Repositório de mídias.
 - LemBrago - Gerenciador e compartilhador de senhas criptografado com E2EE (criptografia de ponta a ponta).
   - [Repositório](https://github.com/sanisamoj/LBRAGO)
   - [Página para download](https://lembrago.sanisamojrepository.com/)
