@@ -94,13 +94,15 @@ Também surgiu o interesse por cybersecurity, como testes de penetração, defes
 
 ## Tecnologias/Conhecimentos 💻
 
-- Linguagens: JavaScript | Typescript, Kotlin e GO.
+- Linguagens: Golang, JavaScript | Typescript, e Kotlin.
 - Sistemas Operacionais: Windows/Linux
 - Runtime/Frameworks/API's com JS: Nodejs, Deno, Fastify, Express, Hono, ORM Prisma, Whatsapp-web.js , Reactjs, NextJs, SocketIO, Mercado Pago, Asass, JEST, Redux, Tailwind.
 - Frameworks/API's com Kotlin : SpringBoot, Data JPA, Ktor, JetPack Compose, MongoDB, Redis, Kotlin Multiplatform, RabbitMQ.
 - Ferramentas: Docker, Docker-compose, Kubernetes, Jira e Ngnix.
+- Mensageria: Redis Streams e RabbitMQ.
 - Banco de dados: SQL (PostgreSQL) and noSQL (MongoDB E Redis)
 - Cloud Services: Using AWS Ec2 service, and Microsoft Azure for personal projects.
+- Bons conhecimentos de criptografia, e de segurança de aplicações.
 - Certificados: Scrum e Manutenção de Hardwares.
 
 ## Contato 📞
