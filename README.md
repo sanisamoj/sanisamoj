@@ -91,6 +91,8 @@ Também surgiu o interesse por cybersecurity, como testes de penetração, defes
 - LemBrago - Gerenciador e compartilhador de senhas criptografado com E2EE (criptografia de ponta a ponta).
   - [Repositório](https://github.com/sanisamoj/LBRAGO)
   - [Página para download](https://lembrago.sanisamojrepository.com/)
+- [Ada Chatbot](https://ada.sanisamojrepository.com/) - Chatbot Omnichannel, no qual há uma plataforma centralizada para o recebimento de mensagens de vários canais, como whatsapp, telegram, instagram e etc. Automações e CRM inclusos, e futuramente integrações com IA.
+  - [Página principal](https://ada.sanisamojrepository.com/)
 
 ## Tecnologias/Conhecimentos 💻
 
